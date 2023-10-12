@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ekaterina Zakharova 
-## I'm a junior data analyst with a 2+ years of experience in market and sociological data analytics. 
-Right now I'm in a process of developing data analytics skill stack, particularly SQL and Python (Pandas, Numpy, Matplotlib)
-- Here's a project I'm working on to practice these skills: https://github.com/HowToLearnCIn24hours/Data-analytics-portfolio-project
+## I'm a junior Python developer with a background in analytics and tech support. 
+Right now I'm studiyng Python and it's frameworks and libraries, and create simple training projects to practice and demonstrate my learning process.
+- Here's my latest project: https://github.com/HowToLearnCIn24hours/Python-training-proj-slot-machine/tree/main
 
 You can reach me via 
 - email KaterineZakharova@proton.me 
