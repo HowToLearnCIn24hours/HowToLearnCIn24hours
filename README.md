@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ekaterina Zakharova 
 ## I'm a junior Python developer with a background in analytics and tech support. 
-Right now I'm studiyng Django and Docker, and create simple training projects to practice and demonstrate my learning process.
+My dream is to become a backend developer and right now I'm in active job search, building little projects to practice my skills at the same time.
 - Here's my latest project: https://github.com/HowToLearnCIn24hours/first_django_app
 
 You can reach me via 
