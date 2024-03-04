@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ekaterina Zakharova 
 ## I'm a junior Python developer with a background in analytics and tech support. 
 Right now I'm studiyng Django and Docker, and create simple training projects to practice and demonstrate my learning process.
-- Here's my latest project: https://github.com/HowToLearnCIn24hours/Python-training-proj-slot-machine/tree/main
+- Here's my latest project: https://github.com/HowToLearnCIn24hours/first_django_app
 
 You can reach me via 
 - email KaterineZakharova@proton.me 
